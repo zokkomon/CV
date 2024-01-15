@@ -1,0 +1,165 @@
+<?xml version="1.0" standalone="no"?>
+<!--UserId:59de3501-bb27-434b-b3d8-80388a5234fc,DocId:4284b3c9bbd0470d83b209faddc2ed7e,SkinCD:MLT7,SDCL:#e9a507-->
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="595" height="842" viewBox="0 0 595 842" style="background-color:#fff;">
+	<defs>
+		<style>
+		  .h1{font-family:monospace;font-size:30px;font-weight:600;letter-spacing:1.4px;fill:#4A4A4A;font-style:italic;}
+             .rec1{fill: rgba(0,0,0,0);stroke-width:1;stroke:rgb(0,0,0);}
+            .p1{font-family:'Calibri';font-size:9.35px;letter-spacing: 0;fill:#4A4A4A;}
+            .p2{font-family:'Calibri';font-size:12.8px;letter-spacing:0;fill:#E9A506;font-style:italic;font-weight: 600;}
+            .p3{font-family:'Calibri';font-size:11.1px;letter-spacing: 0;fill:#4A4A4A;}
+            .p4{font-family:'Calibri';font-size:11px;letter-spacing: 0.1px;fill: #4A4A4A;font-weight:600}
+            .p5{font-family:'Calibri';font-size:11.1px;letter-spacing: 0;fill: #4A4A4A;font-style:italic;font-weight: 600;}
+            .p6{font-family:'Calibri';font-size:11.1px;letter-spacing: 0;fill:#4A4A4A;font-style:italic;}
+            .li-disc {fill:#4A4A4A;}
+		</style>
+	</defs>
+     <line x1="0" y1="0" x2="595" y2="0" style="stroke:#f8e2b0;" stroke-width="145"/>
+     <line  x1="0" y1="100" x2="595" y2="100" style="stroke:#f8e2b0;" stroke-width="0.5"/>
+     <rect class="rec1" width="210" height="56" x="192" y="44" rx="3" ry="3"/>
+      <text class="h1" x="218" y="83" >Sara</text>
+      <text class="h1" x="303" y="83">Reed</text>
+      <line  x1="276" y1="121" x2="276" y2="129" style="stroke: #4A4A4A;" stroke-width="0.5"/>
+      <line  x1="348" y1="121" x2="348" y2="129" style="stroke: #4A4A4A;" stroke-width="0.5"/>
+     <text class="p1">
+        <tspan x="175" y="128">example@example.com</tspan>
+        <tspan x="286" y="128">555-555-5555</tspan>
+        <tspan x="356" y="128">Tulsa, OK 74103</tspan>
+    </text>
+    <text class="p2" x="45" y="190">CAREER OBJECTIVE</text>
+     <text class="p3">
+        <tspan x="45" y="215">Dedicated cashier assistant brings a customer-first attitude to helping</tspan>
+        <tspan x="45" y="229">clients safely shop, buy and transport items to vehicles. Experience
+       </tspan>
+        <tspan x="45" y="243">cleaning and sanitizing work environments, carts, and baskets to
+       </tspan>
+       <tspan x="45" y="257">promote customer health and well-being. Offers an energetic approach
+       </tspan>
+       <tspan x="45" y="271">to assisting customers and fellow employees. Seeking a full-time cashier
+       </tspan>
+       <tspan x="45" y="285">position where I can utilize my experience with POS systems, knowledge
+       </tspan>
+       <tspan x="45" y="299">of PLU codes and strong customer service skills to increase customer
+       </tspan>
+       <tspan x="45" y="313">loyalty.</tspan>
+    </text>
+    <text class="p2" x="415" y="190">SKILLS</text>
+    <circle cx="418.5" cy="212" r="2.2" class="li-disc"></circle>
+    <circle cx="418.5" cy="226" r="2.2" class="li-disc"></circle>
+    <circle cx="418.5" cy="240" r="2.2" class="li-disc"></circle>
+    <circle cx="418.5" cy="254" r="2.2" class="li-disc"></circle>
+    <circle cx="418.5" cy="268" r="2.2" class="li-disc"></circle>
+    <circle cx="418.5" cy="282" r="2.2" class="li-disc"></circle>
+    <circle cx="418.5" cy="296" r="2.2" class="li-disc"></circle>
+    <circle cx="418.5" cy="310" r="2.2" class="li-disc"></circle>
+    <circle cx="418.5" cy="324" r="2.2" class="li-disc"></circle>
+    <text class="p3">
+       <tspan x="428" y="214">Drawer management</tspan>
+       <tspan x="428" y="229">Identification checks</tspan>
+       <tspan x="428" y="243">Customer assistance</tspan>
+       <tspan x="428" y="257">Cash drawer management</tspan>
+       <tspan x="428" y="271">Cash register skills</tspan>
+       <tspan x="428" y="284">Basic math skills</tspan>
+       <tspan x="428" y="299">Inventory management</tspan>
+       <tspan x="428" y="312">Drawer balancing</tspan>
+       <tspan x="428" y="326">Product and service sales</tspan>
+    </text>
+    <text class="p2" x="45" y="353">SUMMARY OF QUALIFICATIONS</text>
+    <circle cx="48" cy="376" r="2.2" class="li-disc"></circle>
+     <circle cx="48" cy="404" r="2.2" class="li-disc"></circle>
+     <circle cx="48" cy="432" r="2.2" class="li-disc"></circle>
+     <text class="p3">
+       <tspan x="58" y="378">Particular focus on keeping shopping area, cashier stations, carts and</tspan>
+        <tspan x="58" y="392">baskets sanitized for each use.</tspan>
+        <tspan x="58" y="406">Dedicated approach to helping resolve customer inquiries and support</tspan>
+        <tspan x="58" y="420">product location, purchase and transport.</tspan>
+        <tspan x="58" y="434">Detailed understanding of practices to keep store smoothly operating.</tspan>
+    </text>
+    <text class="p2" x="415" y="368">EDUCATION</text>
+    <text class="p4" x="415" y="392">Community Care College</text>
+    <text class="p3">
+       <tspan x="416" y="406">Tulsa, OK</tspan>
+       <tspan x="416" y="420">06/2021</tspan>
+       <tspan x="416" y="439">Associate of Science:</tspan>
+       <tspan x="416" y="453">Business</tspan>
+    </text>
+    <text class="p2" x="45" y="475">PROFESSIONAL SKILLS</text>
+    <text class="p4" x="45" y="500">Computer Knowledge</text>
+    <circle cx="48" cy="512" r="2.2" class="li-disc"></circle>
+    <circle cx="48" cy="540" r="2.2" class="li-disc"></circle>
+    <circle cx="48" cy="567" r="2.2" class="li-disc"></circle>
+     <text class="p3">
+        <tspan x="58" y="515">Reviewed and resolved differences between accounting information</tspan>
+        <tspan x="58" y="528">and cash drawer using Excel.</tspan>
+        <tspan x="58" y="542">Arranged electronic payment records to maintain well-organized fill</tspan>
+        <tspan x="58" y="556">systems and recordkeeping compliance.</tspan>
+        <tspan x="58" y="570">Prepared and submitted end-of-shift reports using Odoo software.</tspan>
+    </text>
+    <text class="p4" x="45" y="584">Cash Management</text>
+    <circle cx="48" cy="596" r="2.2" class="li-disc"></circle>
+    <circle cx="48" cy="623" r="2.2" class="li-disc"></circle>
+    <circle cx="48" cy="652" r="2.2" class="li-disc"></circle>
+    <text class="p3">
+        <tspan x="58" y="598">Daily processed 75+ POS transactions, including checks, cash, debit</tspan>
+         <tspan x="58" y="612">and credit purchases and refunds.</tspan>
+         <tspan x="58" y="626">Consistently met upsell goals by highlighting target merchandises with</tspan>
+         <tspan x="58" y="641">strategic promotional approaches.</tspan>
+         <tspan x="58" y="654">Reconciled cash drawer at the start and end of each shift, accounting</tspan>
+         <tspan x="58" y="668">for any errors and resolving discrepancies to maintain accuracy.</tspan>
+    </text>
+     <text class="p4" x="45" y="682">Communication</text>
+     <circle cx="48" cy="693" r="2.2" class="li-disc"></circle>
+     <circle cx="48" cy="749" r="2.2" class="li-disc"></circle>
+     <circle cx="48" cy="777" r="2.2" class="li-disc"></circle>
+      <text class="p3">
+        <tspan x="58" y="696">Actively applied knowledge to help new team members understand
+       </tspan>
+        <tspan x="58" y="710">how to operate registers, merchandise stock, meet customer needs,
+       </tspan>
+        <tspan x="58" y="724">maximize group performance and maintain high satisfaction with
+       </tspan>
+        <tspan x="58" y="738">shoppers.
+       </tspan>
+        <tspan x="58" y="752">Helped over 100+ shoppers every day by processing payments,
+       </tspan>
+        <tspan x="58" y="766">monitoring reward accounts and resolving service concerns.
+       </tspan>
+        <tspan x="58" y="780">Educated customers on promotions to enhance sales.
+       </tspan>
+    </text>
+     <text class="p2" x="415" y="494">WORK HISTORY</text>
+     <text class="p4" x="414" y="519">Murphy USA.</text>
+     <text class="p3" x="478" y="519">Tulsa, OK </text>
+     <text class="p6" x="414" y="533">Cashier Assistant</text>
+     <line  x1="501" y1="535" x2="501" y2="526" style="stroke: #4A4A4A;" stroke-width="0.5"/>
+     <text class="p6" x="509" y="533">01/2022</text>
+     <text class="p6" x="415" y="547">- Current</text>
+     <text class="p4" x="415" y="576">Babysit Near.</text>
+     <text class="p3" x="481" y="576">Tulsa, OK </text>
+     <text class="p6" x="415" y="590">Babysitter</text>
+     <text class="p6" x="479" y="590">10/2019 -</text>
+     <line  x1="470" y1="584" x2="470" y2="591" style="stroke: #4A4A4A;" stroke-width="0.5"/>
+     <text class="p6" x="415" y="604">Current</text>
+     <text class="p2" x="415" y="645">LANGUAGES</text>
+     <text class="p4" x="415" y="670">English:</text>
+     <text class="p3" x="455" y="670">Native language </text>
+     <text class="p4" x="415" y="691">Spanish:</text>
+     <text class="p3" x="538" y="691">B1</text>
+     <line x1="416" y1="701" x2="436" y2="701" style="stroke:#e9a507;" stroke-width="7"/>
+     <line x1="439" y1="701" x2="458" y2="701" style="stroke:#e9a507;" stroke-width="7"/>
+     <line x1="461" y1="701" x2="481" y2="701" style="stroke:#e9a507;" stroke-width="7"/>
+     <line x1="484" y1="701" x2="504" y2="701" style="stroke:#d5d6d6;" stroke-width="7"/>
+      <line x1="507" y1="701" x2="527" y2="701" style="stroke:#d5d6d6;" stroke-width="7"/>
+      <line x1="530" y1="701" x2="550" y2="701" style="stroke:#d5d6d6;" stroke-width="7"/>
+       <text class="p3" x="415" y="714">Intermediate</text>
+       <text class="p4" x="415" y="736">Hungarian:</text>
+       <text class="p3" x="538" y="736">A2</text>
+       <line x1="416" y1="745" x2="436" y2="745" style="stroke:#e9a507;" stroke-width="7"/>
+       <line x1="439" y1="745" x2="458" y2="745" style="stroke:#e9a507;" stroke-width="7"/>
+       <line x1="461" y1="745" x2="481" y2="745" style="stroke:#d5d6d6;" stroke-width="7"/>
+       <line x1="484" y1="745" x2="504" y2="745" style="stroke:#d5d6d6;" stroke-width="7"/>
+       <line x1="507" y1="745" x2="527" y2="745" style="stroke:#d5d6d6;" stroke-width="7"/>
+      <line x1="530" y1="745" x2="550" y2="745" style="stroke:#d5d6d6;" stroke-width="7"/>
+        <text class="p3" x="415" y="759">Elementary</text>
+</svg>
+
