@@ -21,7 +21,7 @@ out = cv2.VideoWriter('visioneye-pinpoint.avi', cv2.VideoWriter_fourcc(*'MJPG'),
 
 center_point = (-10, h)
 # Get ROI of restrited area
-restricted_area = [(624,442),(1602,1057),(262,1062),(0,690)]
+restricted_area = [(624,442),(1602,1057),(262,1062),(0,690)] # Change coordinates according your preferred restricted area
 restricted_area_shapely = Polygon(restricted_area)
 
 while True:
