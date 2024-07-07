@@ -1,6 +1,0 @@
-train: /content/drive/MyDrive/drive/yolov8/yolo_data/images/train
-val: /content/drive/MyDrive/drive/yolov8/yolo_data/images/test
-
-nc: 2
-
-names: ['riskshaw', 'auto-riskshaw']
